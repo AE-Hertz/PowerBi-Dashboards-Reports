@@ -71,10 +71,14 @@ This repository includes:
 
 ## 🌐 **Get in Touch**
 
-💬 **Have questions or ideas?** Feel free to open an [issue](https://github.com/yourusername/powerbi-datasets/issues) or contribute to the repository. Collaboration is encouraged!
+<img align="right" src="https://github.com/user-attachments/assets/155138cc-65a6-45c1-8332-01aaf3f0dee6" alt="Give me star(1)">
+
+💬 **Have questions or ideas?** Feel free to open an [issue](https://github.com/AE-Hertz/PowerBi-Dashboards-Reports/issues/new) or contribute to the repository. Collaboration is encouraged!
 
 🌟 **If you find this useful, don't forget to give the repository a star!**
 
+---
+---
 ---
 
 ## 📜 **License**

@@ -1,3 +1,5 @@
+
+![Created by- AE-Hertz(1)](https://github.com/user-attachments/assets/7da426ce-2507-4f3a-9720-ce8c836de6fc)
 # Power BI Dashboards and Datasets Collection
 
 Welcome to the **Power BI Dashboards and Datasets Collection**! This repository is designed to help university students, fresh graduates, and anyone passionate about learning **Power BI** and **data analysis**. Explore professionally crafted datasets and insightful dashboards to sharpen your skills and bring your data analysis journey to life!
